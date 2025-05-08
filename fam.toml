@@ -3,4 +3,3 @@
 [deps]
 	boxed = { git = "https://github.com/myfamilyorg/boxed" }
 	macros = { git = "https://github.com/myfamilyorg/macros" }
-	ptr = { git = "https://github.com/myfamilyorg/ptr" }
